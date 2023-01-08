@@ -4,7 +4,7 @@
 <div align="center">
   <img alt="Demo" src="./screen1.jpeg" />
   <br/><br/>
-  <img alt="Demo" src="./screen1.jpeg" />
+  <img alt="Demo" src="./screen2.jpeg" />
 </div>
 
 <br/>
